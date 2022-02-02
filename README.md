@@ -1,5 +1,5 @@
 # book em good
-Application written utilizing rest, ported to graphql
+Book searching application written utilizing rest, ported to graphql
 
 ## User Story
 AS AN avid reader
@@ -70,4 +70,5 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ## Links
 git: https://github.com/vw0389/book-em-good
+
 deployed: https://evening-refuge-55264.herokuapp.com/
